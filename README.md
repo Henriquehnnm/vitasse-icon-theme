@@ -1,7 +1,7 @@
 # Vitasse Icon Theme
 
 <p align="center">
-  <img src="icon.png" width="128" alt="Vitasse Icon Theme Logo">
+  <img src="https://github.com/Henriquehnnm/vitasse-icon-theme/blob/main/icon.png" width="128" alt="Vitasse Icon Theme Logo">
 </p>
 
 <p align="center">
@@ -19,6 +19,9 @@ Vitasse (a portmanteau of _Vitesse_ and _Vite_) is a file icon theme for VS Code
 The icons are designed with a minimalist aesthetic, using a consistent color palette and style to provide a visually pleasing and non-distracting coding environment.
 
 ## Previews
+![Vitasse Dark](https://github.com/Henriquehnnm/vitasse-icon-theme/blob/main/previews/vitasse-dark.png)
+
+![Vitasse Light](https://github.com/Henriquehnnm/vitasse-icon-theme/blob/main/previews/vitasse-light.png)
 
 ### Vitasse Dark
 
